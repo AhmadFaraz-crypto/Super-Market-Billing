@@ -1,0 +1,13 @@
+Super Market Billing Project
+
+First Source Code Only for beginners there i use only
+"Switch Statement and if elseb statement"
+
+Second I will show you how to make a super market billing project in "Functions"
+
+Third i will show you how to make a super market billing project "File handling"..
+
+
+Thankyou.
+
+ 
